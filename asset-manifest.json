@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.873c45b3.css",
+    "main.js": "/static/js/main.12791595.js",
+    "static/media/ESP32-Miner.svg": "/static/media/ESP32-Miner.f237ba412fb82816e68ee0ddba399bfa.svg",
+    "static/media/Common-Miner-Baseboard.svg": "/static/media/Common-Miner-Baseboard.f5e7124e96be9d09795a5cedb9aedb9e.svg",
+    "static/media/AVR-MINER-PCB.svg": "/static/media/AVR-MINER-PCB.a7ba60ace965342a3b8bda05e78a653e.svg",
+    "static/media/bigLogoOutline.svg": "/static/media/bigLogoOutline.e7c01730e3fb30505efcb150258f752b.svg",
+    "static/media/fullLogo.svg": "/static/media/fullLogo.b774d14429f2027636e6e5359db186c4.svg",
+    "static/media/dvLogo.svg": "/static/media/dvLogo.ca5e4e816230e8c61bcd11d8d292ee11.svg",
+    "static/media/mvLogo.svg": "/static/media/mvLogo.ac921606decc7e5b2d31a0c7ecb8eadf.svg",
+    "static/media/graphBG.svg": "/static/media/graphBG.e983d4b674d081d60c99304d8afbd247.svg",
+    "index.html": "/index.html",
+    "main.873c45b3.css.map": "/static/css/main.873c45b3.css.map",
+    "main.12791595.js.map": "/static/js/main.12791595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873c45b3.css",
+    "static/js/main.12791595.js"
+  ]
+}
